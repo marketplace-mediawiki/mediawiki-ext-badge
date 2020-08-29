@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Интеграция значков в статью.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Badge`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,12 +11,12 @@
 wfLoadExtension( 'MW_EXT_Badge' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 {{#badge: user|music}}
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
